@@ -1,0 +1,7 @@
+# test extension
+comment = 'Test'
+default_version = '1.0'
+encoding = 'UTF-8'
+superuser = true
+trusted = false
+relocatable = false
